@@ -62,8 +62,18 @@ Pet-project по подготовке аналитической витрины 
 - комментарии по ограничениям данных и логике агрегации.
 
 ## Структура проекта
-```text
-data/processed/ - итоговая витрина
-docs/ - документация по полям, расчетам и качеству данных
-scripts/ - скрипт сборки витрины
-screenshots/ - скриншоты дашборда
+- `data/processed/` - итоговая витрина
+- `docs/` - документация по полям, расчетам и качеству данных
+- `scripts/` - скрипт сборки витрины
+- `screenshots/` - скриншоты дашборда
+
+## Скриншоты
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Profile and Risk
+![Profile and Risk](screenshots/profile_risk.png)
+
+### Data Quality
+![Data Quality](screenshots/data_quality.png)
