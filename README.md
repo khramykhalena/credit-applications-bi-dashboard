@@ -69,11 +69,8 @@ Pet-project по подготовке аналитической витрины 
 
 ## Скриншоты
 
-### Overview
 ![Overview](screenshots/overview.png)
 
-### Profile and Risk
 ![Profile and Risk](screenshots/profile_risk.png)
 
-### Data Quality
 ![Data Quality](screenshots/data_quality.png)
